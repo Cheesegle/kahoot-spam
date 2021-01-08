@@ -32,6 +32,6 @@ rl.question("Game code: ", function(code) {
 });
 
 rl.on("close", function() {
-    console.log("\nbanana");
+    console.log("\nkilled");
     process.exit(0);
 });
