@@ -10,7 +10,7 @@ Simple kahoot spammer made with kahoot.js.
 git clone https://github.com/Cheesegle/kahoot-spam.git
 ```
 
-+ Install the dependencies required
++ Install the required dependencies
 ```bash
 npm i kahoot.js-updated readline
 ```
