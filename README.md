@@ -1,5 +1,5 @@
 # kahoot-spam
-Simple kahoot spammer made with kahoot.js. Spamming more than 200 bots tends to be buggy.
+Simple kahoot spammer made with kahoot.js.
 
 # Installation
 
@@ -22,4 +22,6 @@ cd kahoot-spam
 node kahootspam.js
 ```
 
-Enter the game code, bot name, and amount of bots as prompted
+Enter the game code, bot name, and amount of bots as prompted.
+Spamming more than 200 bots tends to be buggy.
+
