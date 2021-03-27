@@ -12,7 +12,7 @@ git clone https://github.com/Cheesegle/kahoot-spam.git
 
 + Install the required dependencies
 ```bash
-npm i kahoot.js-updated readline
+npm i kahoot.js-updated@2.4.0 readline
 ```
 
 # Usage
